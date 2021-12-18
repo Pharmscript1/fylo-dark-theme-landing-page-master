@@ -1,0 +1,65 @@
+body { background-color: rgb(2, 15, 27); 
+  
+    color: white;}
+  
+  #logo { height: 30px; 
+    width: 100px;}
+  
+  #features {margin-left: 70%; 
+    margin-right: 25px; 
+    text-decoration: none;
+    color: white;}
+ 
+  #Team { margin-right: 
+    25px; text-decoration: none;
+    color:white;
+    }
+
+  #SignIn { text-decoration: none;
+    color: white;}
+  
+  #large { margin-left: 40%;
+     margin-top: 100px; 
+     margin-bottom: 100px;
+     height: 200px; 
+     width: 200px;} 
+
+  H2 { text-align: center;} 
+
+  H3 { text-align: center;}  
+
+  H5 { text-align:center;}
+ 
+     #pitch { height:40px; 
+     width: 50px;
+     margin-left: 47%;
+     text-align: center;
+     }
+  
+  #Started,button { 
+    margin-left: 35%;
+    height: 40px;
+    width: 150px;
+    margin-bottom: 40px;
+    border-radius: 25%;
+    color: white;
+    background-color: rgb(32, 32, 250);
+    }
+
+    .reviews {
+      background-color: rgb(38, 38, 107);
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+
+  .clients {
+     border-radius: 50%;
+     width: 40px;
+     height: 40px;
+  }  
+      
+  .attribution { font-size: 11px; 
+  text-align: center; 
+  color: white; 
+  text-decoration: none;}
+  .attribution a { color: hsl(228, 77%, 14%); }
